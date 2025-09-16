@@ -1,4 +1,18 @@
 ````markdown
+
+# What This Project Does
+This RAG-powered chatbot is specifically designed to function as an AI tutor for a defined course or subject. Its primary purpose is to provide accurate, context-aware answers to student questions by drawing information directly from a provided knowledge base, such as a textbook, lecture notes, or a collection of academic papers.
+
+The system excels at:
+
+- Answering factual questions based on the uploaded course materials.
+
+- Explaining complex concepts in the context of the curriculum.
+
+- Summarizing information from different sections of the source material.
+
+- Acting as a 24/7 study aid that reinforces the specific content taught in the course.
+
 # RAG-Powered Chatbot with Groq & ChromaDB
 
 A Retrieval-Augmented Generation (RAG) chatbot that combines **Groq LLMs** with **ChromaDB vector search** and **HuggingFace embeddings** to provide intelligent, context-aware conversational tutoring. Designed for students and educators, the chatbot retrieves relevant knowledge from a vector store before generating responses, making it more reliable and domain-specific.
